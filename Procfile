@@ -1,1 +1,1 @@
-web: gunicorn main_social.wsgi:application
+web: gunicorn mainsocial3.wsgi:application
